@@ -1,0 +1,18 @@
+ul {
+   margin: .8rem 0 .8rem 1.5rem;
+
+   display: flex;
+   gap: 1.5rem;
+}
+
+ul>li {
+   list-style: none;
+}
+
+ul>li>a {
+   text-decoration: none;
+}
+
+.active {
+   color: #48c59b;
+}
